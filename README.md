@@ -13,14 +13,15 @@ This is a windows application to test NetZero battery management system.
 ---About functions:
 
 (1) sql and CAN connection setting.
-![image](https://github.com/ornothing/BMSTestTool/blob/master/image/setting%20page.png)
 
 (2) sql and CAN connection status.
-https://github.com/ornothing/BMSTestTool/blob/master/image/setting%20page.png
+![image](https://github.com/ornothing/BMSTestTool/blob/master/image/setting%20page.png)
 
 (3) Realtime BMS(Battery Management System) information.
+![image](https://github.com/ornothing/BMSTestTool/blob/master/image/setting%20page.png)
 
 (4) Realtime BMU(Battery Management Unit) information.
+![image](https://github.com/ornothing/BMSTestTool/blob/master/image/setting%20page.png)
 
 (5) BMS and BMU signals timeout.
 
