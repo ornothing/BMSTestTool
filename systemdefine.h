@@ -1,0 +1,6 @@
+#ifndef SYSTEMDEFINE_H
+#define SYSTEMDEFINE_H
+
+#define DEBUG_MODE 1
+
+#endif // SYSTEMDEFINE_H
