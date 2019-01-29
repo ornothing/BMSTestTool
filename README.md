@@ -1,7 +1,6 @@
 # BMSTestTool
 
 This is a windows application to test NetZero battery management system.
-
 About environment:
 
 (1) This application is developed base on Qt5.7.0, and the version of Qt must over 5.7.0 to support QChart API.
